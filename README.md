@@ -1,7 +1,7 @@
 # Amazon Sales Dashboard
 
 # Problem Statement
-Analyze and visualize key aspects of Amazon's sales data, including sales performance by product category, customer segment, region, and sales channel. Use data analysis and visualization to identify trends, patterns, and insights that can optimize sales strategies and improve profitability.
+The main objective of creating this dashboard is to analyze Amazon's sales data to understand various factors affecting sales performance. By identifying trends and patterns, the goal is to provide insights that can help optimize sales strategies, improve profitability, and enhance customer engagement across different product categories and regions
 
 # Dataset Explanation
 𝐎𝐫𝐝𝐞𝐫 𝐈𝐃: A unique identifier for each order made by customers.
